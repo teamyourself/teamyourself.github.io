@@ -1,0 +1,64 @@
+Package: com.dc01.teamyourself
+Name: teamyourself
+Depends: com.conradkramer.open,sqlite3,kr.iolate.simulatetouch,com.autopear.installipa,zip,jp.ashikase.mousesupport,sudo,ch.ringwald.hidsupport,com.rbt.useragentchanger,unzip,ws.hbang.repower,veency,rsync,jetslammed,socat,com.dc01.hookduccom,com.dc01.locationfaker8910,com.dc01.xcon4
+Conflicts: vn.gsm.locationfaker8,com.yourepo.dviet92.xcon,vn.gsm.xcon,com.yourepo.cml.locationfakerios89,com.yourepo.cml.xcon,com.yourepo.cml.hookkeyboard,com.yourepo.cml.hookkeyboardver2,com.yourepo.yan.xcon,com.yourepo.yan.hookkeyboard,com.yourepo.yan.locationfakerios89,com.yourepo.yan.noname,com.yourepo.yan.hookduccom,com.yourepo.kidsauto.xcon,com.yourepo.kidsauto.hookkeyboard,com.yourepo.kidsauto.locationfaker8910,com.yourepo.kidsauto.autolead,com.yourepo.autoleadfree.xcon,com.yourepo.autoleadfree.hookkeyboard,com.yourepo.autoleadfree.locationfaker8910,com.yourepo.autoleadfree.autolead,com.yourepo.thaihoang72.xcon,com.yourepo.thaihoang72.hookkeyboard,com.yourepo.thaihoang72.locationfaker8910,com.yourepo.thaihoang72.autolead,com.yourepo.antran73beta.xcon,com.yourepo.antran73beta.hookkeyboard,com.yourepo.antran73beta.locationfaker8910,com.yourepo.antran73beta.autolead,com.yourepo.antran722.xcon,com.yourepo.antran722.hookkeyboard,com.yourepo.antran722.locationfaker8910,com.yourepo.antran722.autolead,com.yourepo.sourcebimat72.xcon,com.yourepo.sourcebimat72.hookkeyboard,com.yourepo.sourcebimat72.locationfaker8910,com.yourepo.sourcebimat72.autolead,com.yourepo.boolinux7x.xcon,com.yourepo.boolinux7x.hookkeyboard,com.yourepo.boolinux7x.locationfaker8910,com.yourepo.boolinux7x.autolead,com.yourepo.antran73fix.xcon,com.yourepo.antran73fix.hookkeyboard,com.yourepo.antran73fix.locationfaker8910,com.yourepo.antran73fix.autolead,com.yourepo.bbv.autolead,com.yourepo.bbv.hookkeyboard
+Version: 9.5
+Architecture: iphoneos-arm
+Description: ctrllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllll
+Maintainer: teamyourself
+Author: @gmail.com
+Sponsor: 
+Section: System
+Filename: ./Debs/teamyourself.deb
+Size: 239442
+MD5sum: 82b28bd71c1cf81488fb94351b62b9b0
+SHA1: a8e939182b8f654e1ab059509587ff1c3cc877d4
+SHA256: bac9ee9a01a40c6863edc59e0b42e814b160d4b4d74f7abf36c6e0f86144f35d
+
+Package: com.dc01.hookyourself
+Name: hookyourself
+Depends: mobilesubstrate
+Version: 6.0
+Architecture: iphoneos-arm
+Description: hook somthing class for yourself :D
+Maintainer: teamyourself
+Author: @gmail.com
+Sponsor: 
+Section: Tweaks
+Filename: ./Debs/hookyourself.deb
+Size: 266684
+MD5sum: 08e1f05746fd41917783226a76a1d3be
+SHA1: c0995a07d0649924dfbf4688b37ea1285ea09f34
+SHA256: 5836e87f21846e85e3fc6ceb8ee9b168ce85a318b900eaa5c1390d79b427733d
+
+Package: com.dc01.locationfaker8910
+Name: LocationFaker(8,9,10)
+Version: 2.0k
+Architecture: iphoneos-arm
+Description: Change your location using a map Cracked
+Maintainer: teamyourself
+Author: @gmail.com
+Sponsor: 
+Section: Tweaks
+Filename: ./Debs/locationfaker.deb
+Size: 538176
+MD5sum: 308503ffa912ba946f2919d624dd95f3
+SHA1: 9c89eb8aed46bd94cb074fcc769bb484b6fefdeb
+SHA256: dc3d3ab92ce51029478ae9e5be4cfbe6a26af44e5cd5f9808c8b9fb5f9bc470e
+Depends: firmware (>= 8.0), mobilesubstrate (>= 0.9.5000)
+Conflicts: org.thebigboss.locationchangerx
+
+Package: com.dc01.xcon4
+Name: xcon4
+Version: 2.0
+Architecture: iphoneos-arm
+Description: bypass jailbreak for iossssssssssssssssssssssssssss
+Maintainer: teamyourself
+Author: @gmail.com
+Sponsor: 
+Section: Tweaks
+Filename: ./Debs/xcon4.deb
+Size: 133614
+MD5sum: 503e9c286757f95129bd2afa7e10c72a
+SHA1: d43ae645f7170315cd0d63dd80e6ee1f91ae2c53
+SHA256: 30c3aa829f0e4581f2849377167a1d2ee94af0b107a6b0771b8b503f634a9e76
