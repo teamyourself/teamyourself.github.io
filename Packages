@@ -10,10 +10,10 @@ Author: @gmail.com
 Sponsor: 
 Section: System
 Filename: ./Debs/teamyourself.deb
-Size: 239442
-MD5sum: 82b28bd71c1cf81488fb94351b62b9b0
-SHA1: a8e939182b8f654e1ab059509587ff1c3cc877d4
-SHA256: bac9ee9a01a40c6863edc59e0b42e814b160d4b4d74f7abf36c6e0f86144f35d
+Size: 238948
+MD5sum: e8953ab5750fdc5cf607c906e7998036
+SHA1: b0ede39944d1979e5b82348a9311a6f7556f2db2
+SHA256: 7c70deb7e19ad052cbfb50a8a50d6d942b2c222e27728cd65393841380e7fe8c
 
 Package: com.dc01.hookduccom
 Name: hookduccom
