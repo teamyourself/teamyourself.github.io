@@ -1,6 +1,6 @@
 Package: com.dc01.teamyourself
 Name: teamyourself
-Depends: com.conradkramer.open,sqlite3,kr.iolate.simulatetouch,com.autopear.installipa,zip,jp.ashikase.mousesupport,sudo,ch.ringwald.hidsupport,com.rbt.useragentchanger,unzip,ws.hbang.repower,veency,rsync,jetslammed,socat,com.dc01.hookduccom,com.dc01.locationfaker8910,com.dc01.xcon4
+Depends: com.dc01.support,com.conradkramer.open,sqlite3,kr.iolate.simulatetouch,com.autopear.installipa,zip,jp.ashikase.mousesupport,sudo,ch.ringwald.hidsupport,com.rbt.useragentchanger,unzip,ws.hbang.repower,veency,rsync,jetslammed,socat,com.dc01.hookduccom,com.dc01.locationfaker8910,com.dc01.xcon4
 Conflicts: vn.gsm.locationfaker8,com.yourepo.dviet92.xcon,vn.gsm.xcon,com.yourepo.cml.locationfakerios89,com.yourepo.cml.xcon,com.yourepo.cml.hookkeyboard,com.yourepo.cml.hookkeyboardver2,com.yourepo.yan.xcon,com.yourepo.yan.hookkeyboard,com.yourepo.yan.locationfakerios89,com.yourepo.yan.noname,com.yourepo.yan.hookduccom,com.yourepo.kidsauto.xcon,com.yourepo.kidsauto.hookkeyboard,com.yourepo.kidsauto.locationfaker8910,com.yourepo.kidsauto.autolead,com.yourepo.autoleadfree.xcon,com.yourepo.autoleadfree.hookkeyboard,com.yourepo.autoleadfree.locationfaker8910,com.yourepo.autoleadfree.autolead,com.yourepo.thaihoang72.xcon,com.yourepo.thaihoang72.hookkeyboard,com.yourepo.thaihoang72.locationfaker8910,com.yourepo.thaihoang72.autolead,com.yourepo.antran73beta.xcon,com.yourepo.antran73beta.hookkeyboard,com.yourepo.antran73beta.locationfaker8910,com.yourepo.antran73beta.autolead,com.yourepo.antran722.xcon,com.yourepo.antran722.hookkeyboard,com.yourepo.antran722.locationfaker8910,com.yourepo.antran722.autolead,com.yourepo.sourcebimat72.xcon,com.yourepo.sourcebimat72.hookkeyboard,com.yourepo.sourcebimat72.locationfaker8910,com.yourepo.sourcebimat72.autolead,com.yourepo.boolinux7x.xcon,com.yourepo.boolinux7x.hookkeyboard,com.yourepo.boolinux7x.locationfaker8910,com.yourepo.boolinux7x.autolead,com.yourepo.antran73fix.xcon,com.yourepo.antran73fix.hookkeyboard,com.yourepo.antran73fix.locationfaker8910,com.yourepo.antran73fix.autolead,com.yourepo.bbv.autolead,com.yourepo.bbv.hookkeyboard
 Version: 9.5
 Architecture: iphoneos-arm
@@ -10,10 +10,10 @@ Author: @gmail.com
 Sponsor: 
 Section: System
 Filename: ./Debs/teamyourself.deb
-Size: 239488
-MD5sum: 8377988e0e85384b5f1c56cd1efbd84c
-SHA1: 656107f632758081042032640596b446d92abbf0
-SHA256: 55243887b8ed4ff4cd0b90cdd44d46fce7c975fe5b7b6da18122212135e7a560
+Size: 241416
+MD5sum: 6ee510287f40a6ac07f54d26b0f33f94
+SHA1: 0ae5768965c530cdaa61c35eb440941611115c66
+SHA256: 5892274e27c43660eddffedfa4d1d7a158d21af404e179dc03f5b53a8dab3f2d
 
 Package: com.dc01.hookduccom
 Name: hookduccom
@@ -62,3 +62,18 @@ Size: 133614
 MD5sum: 503e9c286757f95129bd2afa7e10c72a
 SHA1: d43ae645f7170315cd0d63dd80e6ee1f91ae2c53
 SHA256: 30c3aa829f0e4581f2849377167a1d2ee94af0b107a6b0771b8b503f634a9e76
+
+Package: com.dc01.support
+Name: support
+Version: 2.0
+Architecture: iphoneos-arm
+Description: support for teamyourselfteamyourselfteamyourselfteamyourselfteamyourself
+Maintainer: teamyourself
+Author: @gmail.com
+Sponsor: 
+Section: Tweaks
+Filename: ./Debs/support.deb
+Size: 6226
+MD5sum: b63cfe9f5fb3e59f8f7497094476c1ce
+SHA1: 56af0038589c06871d8fc01ead1519a973a4d5db
+SHA256: 3c9bcd01069db96304bc1138b61dd65c82cbd8bf35710477f37c6666b8af6f52
