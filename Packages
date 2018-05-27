@@ -65,7 +65,8 @@ SHA256: 30c3aa829f0e4581f2849377167a1d2ee94af0b107a6b0771b8b503f634a9e76
 
 Package: com.dc01.support
 Name: support
-Version: 2.0
+Depends: com.dc01.teamyourself
+Version: 1.0
 Architecture: iphoneos-arm
 Description: support for teamyourselfteamyourselfteamyourselfteamyourselfteamyourself
 Maintainer: teamyourself
