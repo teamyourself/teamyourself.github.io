@@ -18,7 +18,7 @@ SHA256: 5892274e27c43660eddffedfa4d1d7a158d21af404e179dc03f5b53a8dab3f2d
 Package: com.dc01.hookduccom
 Name: hookduccom
 Depends: mobilesubstrate
-Version: 6.0
+Version: 6.1
 Architecture: iphoneos-arm
 Description: hook somthing class for yourself :D
 Maintainer: teamyourself
@@ -26,10 +26,10 @@ Author: @gmail.com
 Sponsor: 
 Section: Tweaks
 Filename: ./Debs/hookduccom.deb
-Size: 266684
-MD5sum: 5f954f6fad7b9404c1b191ceef51de25
-SHA1: 8ec807f5f8011df1094185f3ad2e4028af2f32e8
-SHA256: e6cda4dee6756109871f4765eb02c66f9d90749dba267026f379d0a8ecf6e902
+Size: 266598
+MD5sum: d3092557e6b91f9271c4b958d63b67df
+SHA1: c195247bc8686f61664883764dca76991d633be0
+SHA256: 5332186f4b674bf8ff8916ff9e8850f8ffd976fc757596e151d3222f1ce16d03
 
 Package: com.dc01.locationfaker8910
 Name: LocationFaker(8,9,10)
