@@ -10,10 +10,10 @@ Author: @gmail.com
 Sponsor: 
 Section: System
 Filename: ./Debs/teamyourself.deb
-Size: 245556
-MD5sum: 59c4812093d9feaccd7a6968e14becdc
-SHA1: 52d19677cd1d75858489186666b69098af780253
-SHA256: 66f76744994cb323734d015046045576e4d356357f773bd8d02a49d1f9ba9c04
+Size: 245548
+MD5sum: de79eaa88d6900ab629863acef8c6022
+SHA1: f06a64979cc8a3e244afc52cd4302ba4dd65d5da
+SHA256: 7867ddd335efb46e1d533f54ab7f83ca1183439d8217a57b7ba368404186be86
 
 Package: com.dc01.hookduccom
 Name: hookduccom
@@ -26,10 +26,10 @@ Author: @gmail.com
 Sponsor: 
 Section: Tweaks
 Filename: ./Debs/hookduccom.deb
-Size: 266598
-MD5sum: d3092557e6b91f9271c4b958d63b67df
-SHA1: c195247bc8686f61664883764dca76991d633be0
-SHA256: 5332186f4b674bf8ff8916ff9e8850f8ffd976fc757596e151d3222f1ce16d03
+Size: 249376
+MD5sum: 94f904735fcf9bba604977b110d32bf0
+SHA1: 4e24667978aae426efb453ac929afe32c18d87e9
+SHA256: 6659da60dca1897b3845a8d7651517edf1891557c3213ee5274e54e50e3c6884
 
 Package: com.dc01.locationfaker8910
 Name: LocationFaker(8,9,10)
