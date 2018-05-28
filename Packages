@@ -2,7 +2,7 @@ Package: com.dc01.teamyourself
 Name: teamyourself
 Depends: com.dc01.support,com.conradkramer.open,sqlite3,kr.iolate.simulatetouch,com.autopear.installipa,zip,jp.ashikase.mousesupport,sudo,ch.ringwald.hidsupport,com.rbt.useragentchanger,unzip,ws.hbang.repower,veency,rsync,jetslammed,socat,com.dc01.hookduccom,com.dc01.locationfaker8910
 Conflicts: vn.gsm.locationfaker8,com.yourepo.dviet92.xcon,vn.gsm.xcon,com.yourepo.cml.locationfakerios89,com.yourepo.cml.xcon,com.yourepo.cml.hookkeyboard,com.yourepo.cml.hookkeyboardver2,com.yourepo.yan.xcon,com.yourepo.yan.hookkeyboard,com.yourepo.yan.locationfakerios89,com.yourepo.yan.noname,com.yourepo.yan.hookduccom,com.yourepo.kidsauto.xcon,com.yourepo.kidsauto.hookkeyboard,com.yourepo.kidsauto.locationfaker8910,com.yourepo.kidsauto.autolead,com.yourepo.autoleadfree.xcon,com.yourepo.autoleadfree.hookkeyboard,com.yourepo.autoleadfree.locationfaker8910,com.yourepo.autoleadfree.autolead,com.yourepo.thaihoang72.xcon,com.yourepo.thaihoang72.hookkeyboard,com.yourepo.thaihoang72.locationfaker8910,com.yourepo.thaihoang72.autolead,com.yourepo.antran73beta.xcon,com.yourepo.antran73beta.hookkeyboard,com.yourepo.antran73beta.locationfaker8910,com.yourepo.antran73beta.autolead,com.yourepo.antran722.xcon,com.yourepo.antran722.hookkeyboard,com.yourepo.antran722.locationfaker8910,com.yourepo.antran722.autolead,com.yourepo.sourcebimat72.xcon,com.yourepo.sourcebimat72.hookkeyboard,com.yourepo.sourcebimat72.locationfaker8910,com.yourepo.sourcebimat72.autolead,com.yourepo.boolinux7x.xcon,com.yourepo.boolinux7x.hookkeyboard,com.yourepo.boolinux7x.locationfaker8910,com.yourepo.boolinux7x.autolead,com.yourepo.antran73fix.xcon,com.yourepo.antran73fix.hookkeyboard,com.yourepo.antran73fix.locationfaker8910,com.yourepo.antran73fix.autolead,com.yourepo.bbv.autolead,com.yourepo.bbv.hookkeyboard
-Version: 9.6
+Version: 9.7
 Architecture: iphoneos-arm
 Description: ctrllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllll
 Maintainer: teamyourself
@@ -10,10 +10,10 @@ Author: @gmail.com
 Sponsor: 
 Section: System
 Filename: ./Debs/teamyourself.deb
-Size: 245646
-MD5sum: a39fb1ef4d19ecac1e8a4385a3ed5baa
-SHA1: 37690125134f59cd2d33231ea6a79aa465eb0637
-SHA256: 08c259f2080d09c4dc35efd0a81d4849a77664fa76b6e597df55a2da2e923fdf
+Size: 245556
+MD5sum: 59c4812093d9feaccd7a6968e14becdc
+SHA1: 52d19677cd1d75858489186666b69098af780253
+SHA256: 66f76744994cb323734d015046045576e4d356357f773bd8d02a49d1f9ba9c04
 
 Package: com.dc01.hookduccom
 Name: hookduccom
