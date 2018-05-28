@@ -2,7 +2,7 @@ Package: com.dc01.teamyourself
 Name: teamyourself
 Depends: com.dc01.support,com.conradkramer.open,sqlite3,kr.iolate.simulatetouch,com.autopear.installipa,zip,jp.ashikase.mousesupport,sudo,ch.ringwald.hidsupport,com.rbt.useragentchanger,unzip,ws.hbang.repower,veency,rsync,jetslammed,socat,com.dc01.hookduccom,com.dc01.locationfaker8910
 Conflicts: vn.gsm.locationfaker8,com.yourepo.dviet92.xcon,vn.gsm.xcon,com.yourepo.cml.locationfakerios89,com.yourepo.cml.xcon,com.yourepo.cml.hookkeyboard,com.yourepo.cml.hookkeyboardver2,com.yourepo.yan.xcon,com.yourepo.yan.hookkeyboard,com.yourepo.yan.locationfakerios89,com.yourepo.yan.noname,com.yourepo.yan.hookduccom,com.yourepo.kidsauto.xcon,com.yourepo.kidsauto.hookkeyboard,com.yourepo.kidsauto.locationfaker8910,com.yourepo.kidsauto.autolead,com.yourepo.autoleadfree.xcon,com.yourepo.autoleadfree.hookkeyboard,com.yourepo.autoleadfree.locationfaker8910,com.yourepo.autoleadfree.autolead,com.yourepo.thaihoang72.xcon,com.yourepo.thaihoang72.hookkeyboard,com.yourepo.thaihoang72.locationfaker8910,com.yourepo.thaihoang72.autolead,com.yourepo.antran73beta.xcon,com.yourepo.antran73beta.hookkeyboard,com.yourepo.antran73beta.locationfaker8910,com.yourepo.antran73beta.autolead,com.yourepo.antran722.xcon,com.yourepo.antran722.hookkeyboard,com.yourepo.antran722.locationfaker8910,com.yourepo.antran722.autolead,com.yourepo.sourcebimat72.xcon,com.yourepo.sourcebimat72.hookkeyboard,com.yourepo.sourcebimat72.locationfaker8910,com.yourepo.sourcebimat72.autolead,com.yourepo.boolinux7x.xcon,com.yourepo.boolinux7x.hookkeyboard,com.yourepo.boolinux7x.locationfaker8910,com.yourepo.boolinux7x.autolead,com.yourepo.antran73fix.xcon,com.yourepo.antran73fix.hookkeyboard,com.yourepo.antran73fix.locationfaker8910,com.yourepo.antran73fix.autolead,com.yourepo.bbv.autolead,com.yourepo.bbv.hookkeyboard
-Version: 9.8
+Version: 9.9
 Architecture: iphoneos-arm
 Description: ctrllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllll
 Maintainer: teamyourself
@@ -10,15 +10,15 @@ Author: @gmail.com
 Sponsor: 
 Section: System
 Filename: ./Debs/teamyourself.deb
-Size: 245548
-MD5sum: de79eaa88d6900ab629863acef8c6022
-SHA1: f06a64979cc8a3e244afc52cd4302ba4dd65d5da
-SHA256: 7867ddd335efb46e1d533f54ab7f83ca1183439d8217a57b7ba368404186be86
+Size: 245552
+MD5sum: a2cf6d7e002c0caafee66289a8c13d63
+SHA1: 479f5a7a0a95154daf697ca355b57103bb5f4f18
+SHA256: 2005771b22a4d0f6e70d5aeb8ae2ede1d21a037dc5cc59de95ed2ca464cfbbcb
 
 Package: com.dc01.hookduccom
 Name: hookduccom
 Depends: mobilesubstrate
-Version: 6.3
+Version: 6.5
 Architecture: iphoneos-arm
 Description: hook somthing class for yourself :D
 Maintainer: teamyourself
@@ -26,10 +26,10 @@ Author: @gmail.com
 Sponsor: 
 Section: Tweaks
 Filename: ./Debs/hookduccom.deb
-Size: 249376
-MD5sum: 94f904735fcf9bba604977b110d32bf0
-SHA1: 4e24667978aae426efb453ac929afe32c18d87e9
-SHA256: 6659da60dca1897b3845a8d7651517edf1891557c3213ee5274e54e50e3c6884
+Size: 249382
+MD5sum: baec065ab16558449af1388f01e9ec6c
+SHA1: 38ad287acd337975e043fa496f69de066766f860
+SHA256: 0184b95c5ade6d4e540ef75c697a675760e42559e17e5f2c4a0eb17bec595baf
 
 Package: com.dc01.locationfaker8910
 Name: LocationFaker(8,9,10)
