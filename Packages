@@ -10,10 +10,10 @@ Author: conngunay2@gmail.com
 Sponsor: repo.ducauto.info
 Section: System
 Filename: ./Debs/noname.deb
-Size: 375432
-MD5sum: 767dec2cd22a5a1410e221901e33299e
-SHA1: 52960c676064609c2d17974f986634c676d702d4
-SHA256: 030a9c0369aa7e711740af433f30f28d5370494c19d508c707ae8c5dd72751e6
+Size: 375426
+MD5sum: 4ba75952e84d949c8a3af62a0a73baf2
+SHA1: 4cb15e80f78da60f7543346f0432927b8966291a
+SHA256: 00759a64b313afee177d9debcd2d2508c33bea54c65960ec5574394061950cb6
 Tag: role::hacker
 
 Package: com.duccom01.hookduccom
