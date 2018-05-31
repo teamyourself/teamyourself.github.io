@@ -1,5 +1,5 @@
-Origin: Kho Của Đức
-Label: Kho Của Đức
+Origin: ADMOB
+Label: ADMOB
 Suite: stable
 Version: 8.0
 Codename: ios
@@ -7,6 +7,6 @@ Architectures: iphoneos-arm
 Components: main
 Description: iOSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSS
 MD5Sum:
-	f70d4a76ded402ededb3a84c0cbf73e8 4182 Packages
-	2cc89227ae9fe3634864b98b6cca2d85 1495 Packages.bz2
-	784e7aac16fb52f16d7b73e1b32fd052 1384 Packages.gz
+	8c7122b26f36dac1a859876072d3e918 3692 Packages
+	18cea24527db4c5fda268a40d12b73fa 1472 Packages.bz2
+	e348b2bb5d7de337f6ad062efcc3c4c5 1355 Packages.gz
