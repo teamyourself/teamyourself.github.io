@@ -1,8 +1,8 @@
 Package: com.duccom01.noname
 Name: noname
-Depends: com.duccom01.supportnoname,com.conradkramer.open,sqlite3,kr.iolate.simulatetouch,com.autopear.installipa,zip,jp.ashikase.mousesupport,sudo,ch.ringwald.hidsupport,com.rbt.useragentchanger,unzip,ws.hbang.repower,veency,rsync,jetslammed,socat,com.duccom01.hookduccom,com.duccom01.locationfaker8910
+Depends: com.duccom01.supportnoname,com.conradkramer.open,sqlite3,kr.iolate.simulatetouch,com.autopear.installipa,zip,jp.ashikase.mousesupport,sudo,ch.ringwald.hidsupport,com.rbt.useragentchanger,unzip,openssh,ws.hbang.repower,veency,rsync,jetslammed,socat,com.duccom01.hookduccom,com.duccom01.locationfaker8910
 Conflicts: vn.gsm.locationfaker8,vn.gsm.xcon,com.n00neimp0rtant.xcon
-Version: 8.6.2
+Version: 8.6.3
 Architecture: iphoneos-arm
 Description: iOSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSS
 Maintainer: duccom01
@@ -10,16 +10,14 @@ Author: conngunay2@gmail.com
 Sponsor: repo.ducauto.info
 Section: System
 Filename: ./Debs/noname.deb
-Size: 251162
-MD5sum: a083a4ea42d5c817348710773a11d8f4
-SHA1: 9642bac114328f9b0008e5e6e41c2c2e0da0acda
-SHA256: e910b1976169e3d91fcf9a364bfc49e505dbf7d51a02356a122c22c4900b0f68
+Size: 146810
+MD5sum: 1e0f659da7027c0be14006a616691f2c
 Tag: role::hacker
 
 Package: com.duccom01.hookduccom
 Name: hookduccom
 Depends: mobilesubstrate,com.duccom01.noname
-Version: 5.7.2
+Version: 5.7.3
 Architecture: iphoneos-arm
 Description: iOSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSS
 Maintainer: duccom01
@@ -27,10 +25,8 @@ Author: conngunay2@gmail.com
 Sponsor: repo.ducauto.info
 Section: Tweaks
 Filename: ./Debs/hookduccom.deb
-Size: 242718
-MD5sum: 76ea55e2b8991fae08794f98b5f8fa26
-SHA1: 4b14487e36676424f2ac4e864d436f1c410eeaf8
-SHA256: 77350adc72098895a5b30f23ba4156d05bf8a480b373c13d5c5d42e9fffcb8c3
+Size: 166734
+MD5sum: 6be9409c648f1dacc35b0d64619cb714
 Tag: role::hacker
 
 Package: com.duccom01.locationfaker8910
@@ -45,10 +41,8 @@ Section: Tweaks
 Filename: ./Debs/locationfaker.deb
 Size: 541934
 MD5sum: 70d174621a3d4ea34fbca551709a0093
-SHA1: 05ac03c947cb9394d294dec7002c05c103a21237
-SHA256: 71b27b783b52d982f689baec82c9da102fdc3025aeb97553ab50f8ac9c5f817d
 Depends: firmware (>= 8.0), mobilesubstrate (>= 0.9.5000)
-Conflicts: org.thebigboss.locationchangerx
+Conflicts: org.thebigboss.locationchangerx, vn.gsm.locationchangerx, vn.gsm.locationfaker8
 
 Package: com.duccom01.xcon4
 Name: xcon4
@@ -63,8 +57,6 @@ Section: Tweaks
 Filename: ./Debs/xcon4.deb
 Size: 136628 
 MD5sum: 9a10f47c107802877369cf550c978a63
-SHA1: 6fdfaa8a2f61bb62f8ad0d355807aabaf4ef715e
-SHA256: 30eb02fe7c1cb40b6d859213457b887ebf0e2d4dbdd4e0d76e408d66d1597e99
 Tag: role::hacker
 
 Package: com.duccom01.supportnoname
@@ -80,8 +72,6 @@ Section: Tweaks
 Filename: ./Debs/supportnoname.deb
 Size: 1348
 MD5sum: 4a0757d01059a44206556853ba9c8c33
-SHA1: 604568089c482a30c62cca0f08e7b26a351fb599
-SHA256: dd420891c2bf1f5a5e42fe1f124578db0ee4b1c74d384715554c3a8979c4afba
 Tag: role::hacker
 
 Package: com.duccom01.icontool
@@ -97,7 +87,5 @@ Section: Tweaks
 Filename: ./Debs/icontool.deb
 Size: 384380
 MD5sum: 556ac25a2bc2055d919cfee7a730d91c
-SHA1: 69f95417791f36fd51a2cf36bf7c324fba00aa0e
-SHA256: 7d20d11bba9699b698df1382a11c7515601bffbd78cd04593878f2a9c13718fd
 Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 5.0), preferenceloader (>= 2.2.2)
 Conflicts: com.rpetrich.iconrenamer,vn.gsm.icontool
