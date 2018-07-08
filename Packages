@@ -1,6 +1,6 @@
 Package: com.duccom01.noname
 Name: noname
-Depends: com.duccom01.supportnoname,com.conradkramer.open,kr.iolate.simulatetouch,com.autopear.installipa,zip,jp.ashikase.mousesupport,sudo,ch.ringwald.hidsupport,com.rbt.useragentchanger,unzip,openssh,ws.hbang.repower,rsync,jetslammed,socat,com.duccom01.hookduccom
+Depends: com.conradkramer.open,kr.iolate.simulatetouch,com.autopear.installipa,zip,jp.ashikase.mousesupport,sudo,ch.ringwald.hidsupport,com.rbt.useragentchanger,unzip,openssh,ws.hbang.repower,rsync,jetslammed,socat,com.duccom01.hookduccom
 Conflicts: vn.gsm.locationfaker8,vn.gsm.xcon,com.n00neimp0rtant.xcon
 Version: 8.6.3
 Architecture: iphoneos-arm
@@ -10,8 +10,8 @@ Author: conngunay2@gmail.com
 Sponsor: repo.ducauto.info
 Section: System
 Filename: ./Debs/noname.deb
-Size: 147492
-MD5sum: 32ba9f59f96d1f61dbd8cc40aec72d89
+Size: 224562
+MD5sum: 110aa2bbc70f51e0fb4db97c0fa93add
 Tag: role::hacker
 
 Package: com.duccom01.hookduccom
