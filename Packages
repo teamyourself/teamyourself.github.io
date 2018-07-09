@@ -1,0 +1,91 @@
+Package: com.duccom01.noname
+Name: noname
+Depends: com.duccom01.supportnoname,com.conradkramer.open,sqlite3,kr.iolate.simulatetouch,com.autopear.installipa,zip,jp.ashikase.mousesupport,sudo,ch.ringwald.hidsupport,com.rbt.useragentchanger,unzip,ws.hbang.repower,veency,rsync,jetslammed,socat,com.duccom01.hookduccom,com.duccom01.locationfaker8910
+Conflicts: vn.gsm.locationfaker8,vn.gsm.xcon,com.n00neimp0rtant.xcon
+Version: 8.6.4
+Architecture: iphoneos-arm
+Description: iOSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSS
+Maintainer: duccom01
+Author: conngunay2@gmail.com
+Sponsor: repo.ducauto.info
+Section: System
+Filename: ./Debs/noname.deb
+Size: 147206
+MD5sum: bf591307c7fbce8dca10a98daafe7df1
+Tag: role::hacker
+
+Package: com.duccom01.hookduccom
+Name: hookduccom
+Depends: mobilesubstrate,com.duccom01.noname
+Version: 5.7.3
+Architecture: iphoneos-arm
+Description: iOSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSS
+Maintainer: duccom01
+Author: conngunay2@gmail.com
+Sponsor: repo.ducauto.info
+Section: Tweaks
+Filename: ./Debs/hookduccom.deb
+Size: 166734
+MD5sum: 6be9409c648f1dacc35b0d64619cb714
+Tag: role::hacker
+
+Package: com.duccom01.locationfaker8910
+Name: LocationFaker(8,9,10)
+Version: 2.1k
+Architecture: iphoneos-arm
+Description: Change your location using a map Cracked
+Maintainer: duccom01
+Author: conngunay2@gmail.com
+Sponsor: repo.ducauto.info
+Section: Tweaks
+Filename: ./Debs/locationfaker.deb
+Size: 541934
+MD5sum: 70d174621a3d4ea34fbca551709a0093
+Depends: firmware (>= 8.0), mobilesubstrate (>= 0.9.5000)
+Conflicts: org.thebigboss.locationchangerx, vn.gsm.locationchangerx, vn.gsm.locationfaker8
+
+Package: com.duccom01.xcon4
+Name: xcon4
+Depends: mobilesubstrate
+Version: 2.0
+Architecture: iphoneos-arm
+Description: bypass jailbreak for iossssssssssssssssssssssssssss
+Maintainer: duccom01
+Author: conngunay2@gmail.com
+Sponsor: repo.ducauto.info
+Section: Tweaks
+Filename: ./Debs/xcon4.deb
+Size: 136628 
+MD5sum: 9a10f47c107802877369cf550c978a63
+Tag: role::hacker
+
+Package: com.duccom01.supportnoname
+Name: supportnoname
+Depends: mobilesubstrate,com.duccom01.noname
+Version: 1
+Architecture: iphoneos-arm
+Description: supporttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttt
+Maintainer: duccom01
+Author: conngunay2@gmail.com
+Sponsor: repo.ducauto.info
+Section: Tweaks
+Filename: ./Debs/supportnoname.deb
+Size: 1348
+MD5sum: 4a0757d01059a44206556853ba9c8c33
+Tag: role::hacker
+
+Package: com.duccom01.icontool
+Name: Icon Tool
+Depends: mobilesubstrate
+Version: 1.9-5k
+Architecture: iphoneos-arm
+Description: App tools menu from jiggle mode
+Maintainer: duccom01
+Author: conngunay2@gmail.com
+Sponsor: repo.ducauto.info
+Section: Tweaks
+Filename: ./Debs/icontool.deb
+Size: 384380
+MD5sum: 556ac25a2bc2055d919cfee7a730d91c
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 5.0), preferenceloader (>= 2.2.2)
+Conflicts: com.rpetrich.iconrenamer,vn.gsm.icontool
