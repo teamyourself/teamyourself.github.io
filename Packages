@@ -17,7 +17,7 @@ Tag: role::hacker
 Package: com.duccom01.hookduccom
 Name: hookduccom
 Depends: mobilesubstrate,com.duccom01.noname
-Version: 5.7.3
+Version: 5.7.4
 Architecture: iphoneos-arm
 Description: iOSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSS
 Maintainer: duccom01
@@ -25,8 +25,8 @@ Author: conngunay2@gmail.com
 Sponsor: repo.ducauto.info
 Section: Tweaks
 Filename: ./Debs/hookduccom.deb
-Size: 166734
-MD5sum: 6be9409c648f1dacc35b0d64619cb714
+Size: 162634
+MD5sum: 9c9a90e710416c7bea8df8f1ff530d0e
 Tag: role::hacker
 
 Package: com.duccom01.locationfaker8910
