@@ -1,6 +1,6 @@
 Package: com.duccom01.noname
 Name: noname
-Depends: com.duccom01.supportnoname,com.conradkramer.open,sqlite3,kr.iolate.simulatetouch,com.autopear.installipa,zip,jp.ashikase.mousesupport,sudo,ch.ringwald.hidsupport,com.rbt.useragentchanger,unzip,ws.hbang.repower,veency,rsync,jetslammed,socat,com.duccom01.hookduccom,com.duccom01.locationfaker8910
+Depends:com.conradkramer.open,sqlite3,kr.iolate.simulatetouch,com.autopear.installipa,zip,sudo,com.rbt.useragentchanger,unzip,rsync,jetslammed,socat
 Conflicts: vn.gsm.locationfaker8,vn.gsm.xcon,com.n00neimp0rtant.xcon
 Version: 8.6.5
 Architecture: iphoneos-arm
